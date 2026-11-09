@@ -35,7 +35,7 @@
         "gn:id":6692728
     },
     "wof:country":"MV",
-    "wof:geomhash":"18649a409088f96be34799dc4edd8681",
+    "wof:geomhash":"8b486ef1506ba1a09d7b81e2d2f65551",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,5 +60,5 @@
     73.53889000000002,
     2.85383
 ],
-  "geometry": {"coordinates":[73.53889000000002,2.85383],"type":"Point"}
+  "geometry": {"coordinates":[73.53889,2.85383],"type":"Point"}
 }
