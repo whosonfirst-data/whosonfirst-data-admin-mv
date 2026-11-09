@@ -68,7 +68,7 @@
         "wk:page":"Veymandoo"
     },
     "wof:country":"MV",
-    "wof:geomhash":"c6a4c0069a3a321b84509cb31f2c6f19",
+    "wof:geomhash":"ea55ed51e25e5b74b81373ae60d91adc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -95,5 +95,5 @@
     73.09555999999998,
     2.18772
 ],
-  "geometry": {"coordinates":[73.09555999999998,2.18772],"type":"Point"}
+  "geometry": {"coordinates":[73.09556,2.18772],"type":"Point"}
 }
