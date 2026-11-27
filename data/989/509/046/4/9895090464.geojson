@@ -1,0 +1,73 @@
+{
+  "id": 9895090464,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.47944,5.83078,73.47944,5.83078",
+    "geom:latitude":5.83078,
+    "geom:longitude":73.47944,
+    "gn:population":700,
+    "iso:country":"MV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12088818: name \"Maafaru\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12088818"
+        },
+        {
+            "citation":"GeoNames populated place 12088818: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12088818"
+        },
+        {
+            "citation":"GeoNames populated place 12088818: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12088818"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85674063 (Noonu), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632305,
+        85674063,
+        102193527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12088818
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"10a2c6454cd8d35cae012ae11f899961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632305,
+            "locality_id":9895090464,
+            "region_id":85674063
+        }
+    ],
+    "wof:id":9895090464,
+    "wof:lastmodified":1795746160,
+    "wof:name":"Maafaru",
+    "wof:parent_id":85674063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.47944,
+    5.83078,
+    73.47944,
+    5.83078
+],
+  "geometry": {"coordinates":[73.47944,5.83078],"type":"Point"}
+}

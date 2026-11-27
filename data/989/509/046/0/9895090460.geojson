@@ -1,0 +1,72 @@
+{
+  "id": 9895090460,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.92544,3.0615,72.92544,3.0615",
+    "geom:latitude":3.0615,
+    "geom:longitude":72.92544,
+    "iso:country":"MV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694904: name \"Dharanboodhoo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694904"
+        },
+        {
+            "citation":"GeoNames populated place 11694904: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694904"
+        },
+        {
+            "citation":"GeoNames populated place 11694904: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694904"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85674089 (Faafu), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632305,
+        85674089,
+        102193527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694904
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"a3f3ad77cdfcd3dd842080627afa2d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632305,
+            "locality_id":9895090460,
+            "region_id":85674089
+        }
+    ],
+    "wof:id":9895090460,
+    "wof:lastmodified":1795746160,
+    "wof:name":"Dharanboodhoo",
+    "wof:parent_id":85674089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.92544,
+    3.0615,
+    72.92544,
+    3.0615
+],
+  "geometry": {"coordinates":[72.92544,3.0615],"type":"Point"}
+}
