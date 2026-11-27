@@ -1,0 +1,73 @@
+{
+  "id": 9895090462,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.21293,2.25205,73.21293,2.25205",
+    "geom:latitude":2.25205,
+    "geom:longitude":73.21293,
+    "gn:population":239,
+    "iso:country":"MV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11776643: name \"Gaadhiffushi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11776643"
+        },
+        {
+            "citation":"GeoNames populated place 11776643: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11776643"
+        },
+        {
+            "citation":"GeoNames populated place 11776643: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11776643"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85674111 (Thaa), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632305,
+        85674111,
+        102193527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11776643
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"948fa9b73f6b61f836f68d94d5056dff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632305,
+            "locality_id":9895090462,
+            "region_id":85674111
+        }
+    ],
+    "wof:id":9895090462,
+    "wof:lastmodified":1795746160,
+    "wof:name":"Gaadhiffushi",
+    "wof:parent_id":85674111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.21293,
+    2.25205,
+    73.21293,
+    2.25205
+],
+  "geometry": {"coordinates":[73.21293,2.25205],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895090465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.45655,0.29015,73.45655,0.29015",
+    "geom:latitude":0.29015,
+    "geom:longitude":73.45655,
+    "iso:country":"MV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12128611: name \"Gadhdhoo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12128611"
+        },
+        {
+            "citation":"GeoNames populated place 12128611: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12128611"
+        },
+        {
+            "citation":"GeoNames populated place 12128611: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12128611"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85674125 (Gaafu Dhaalu), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632305,
+        85674125,
+        102193527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12128611
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"05a1d41850989bf2359c312140525ba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632305,
+            "locality_id":9895090465,
+            "region_id":85674125
+        }
+    ],
+    "wof:id":9895090465,
+    "wof:lastmodified":1795746160,
+    "wof:name":"Gadhdhoo",
+    "wof:parent_id":85674125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.45655,
+    0.29015,
+    73.45655,
+    0.29015
+],
+  "geometry": {"coordinates":[73.45655,0.29015],"type":"Point"}
+}
